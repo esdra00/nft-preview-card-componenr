@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--    Solution URL: [Add solution URL here](https://github.com/esdra00/nft-preview-card-componenr.git)
--    Live Site URL: [Add live site URL here](https://esdra00.github.io/nft-preview-card-componenr/)
+-    Solution URL: (https://github.com/esdra00/nft-preview-card-componenr.git)
+-    Live Site URL: (https://esdra00.github.io/nft-preview-card-componenr/)
 
 ## My process
 
